@@ -20,12 +20,12 @@ Activating the connection digitally
 
 The platform was tested with 500+ mock user signups and deployed on AWS using EC2 and RDS.
 
-Components
-Backend
+**Components**
+- Backend
 Repository: CustomerOnboarding - https://github.com/Anusha853/CustomerOnboarding
 
-Customer Portal
+- Customer Portal
 Repository: Onboarding_frontend - https://github.com/Anusha853/Onboarding_frontend
 
-Admin Dashboard
+- Admin Dashboard
 Repository: AdminDashboard - https://github.com/Anusha853/AdminDashboard
